@@ -13,3 +13,5 @@ TP5 : Mise en place et configuration d'un Réseau contenant des VLAN's (2 Hosts,
 TP6 : STP ;
 
 TP7 : Mise en place et configuration d'un Réseau en IPV6 ;
+
+TP8 : Mise en place et configuration d'un routage static ;
